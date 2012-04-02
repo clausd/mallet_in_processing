@@ -1,0 +1,3 @@
+This is just a build of Mallet that's compatible with Processing - and a quick example of using the L-BFGS solver from Mallet
+Build changes: Compile with Java 1.5
+
